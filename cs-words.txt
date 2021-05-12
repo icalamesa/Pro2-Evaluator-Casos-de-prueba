@@ -36,7 +36,7 @@ computer program
 configure
 cookie
 copy
-CPU (central processing unit)
+CPU
 cybercrime
 cyberspace
 dashboard
@@ -50,7 +50,7 @@ desktop
 development
 digital
 disk
-DNS (domain name system)
+DNS
 document
 domain
 domain name
@@ -58,7 +58,7 @@ dot
 dot matrix
 download
 drag
-DVD (digital versatile disc)
+DVD
 dynamic
 email
 emoticon
@@ -162,21 +162,24 @@ runtime
 screenshot
 script
 scroll
-scroll bar
-search engine
+scroll 
+bar
+search 
+engine
 security
 server
 shareware
 shell
 shift
-shift key
+shift 
+key
 snapshot
 software
 spam
 spammer
 spreadsheet
 spyware
-status bar
+status
 storage
 supercomputer
 surf
@@ -211,7 +214,8 @@ wiki
 window
 Windows
 wireless
-word processor
+word
+processor
 workstation
 XML
 zip
