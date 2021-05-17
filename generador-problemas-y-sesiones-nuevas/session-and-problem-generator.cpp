@@ -59,11 +59,11 @@ int main()
     output << std::endl;
 
     //nueva sesion
-    for (int i = 1; i <= 30;)
+    for (int i = 1; i <= 28;)
     {
 	if (rand_uni() >= 3)
 	{
-	    output << sesion << std::to_string(i);
+	    output << "ns " << sesion << std::to_string(i);
 	    i++;
 	}
 	else
@@ -71,7 +71,7 @@ int main()
 	    output << "#REPETICION\n";
 	    int num = mt_rand()%i;
 	    if (num == 0) num++;
-	    output << sesion << std::to_string(num);
+	    output << "ns " << sesion << std::to_string(num);
 	}
 	output << " ";
 	std::vector<int> aux;
