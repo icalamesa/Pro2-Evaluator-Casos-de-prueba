@@ -1,0 +1,376 @@
+PROGRAMACION 2
+IVAN CALA MESA
+
+np Problema1
+np Problema1  #REPETICION
+np Problema2
+np Problema3
+np Problema2  #REPETICION
+np Problema4
+np Problema2  #REPETICION
+np Problema1  #REPETICION
+np Problema5
+np Problema6
+np Problema7
+np Problema8
+np Problema9
+np Problema6  #REPETICION
+np Problema1  #REPETICION
+np Problema2  #REPETICION
+np Problema10
+np Problema11
+np Problema5  #REPETICION
+np Problema12
+np Problema13
+np Problema12  #REPETICION
+np Problema14
+np Problema15
+np Problema16
+np Problema5  #REPETICION
+np Problema17
+np Problema18
+np Problema15  #REPETICION
+np Problema1  #REPETICION
+np Problema19
+np Problema20
+np Problema21
+np Problema22
+np Problema17  #REPETICION
+np Problema23
+np Problema24
+np Problema12  #REPETICION
+np Problema25
+np Problema26
+np Problema27
+np Problema10  #REPETICION
+np Problema28
+np Problema29
+np Problema30
+np Problema12  #REPETICION
+np Problema31
+np Problema7  #REPETICION
+np Problema32
+np Problema33
+np Problema4  #REPETICION
+np Problema34
+np Problema35
+np Problema23  #REPETICION
+np Problema36
+np Problema37
+np Problema38
+np Problema39
+np Problema40
+np Problema41
+np Problema42
+np Problema43
+np Problema44
+np Problema45
+np Problema46
+np Problema47
+np Problema48
+np Problema49
+np Problema50
+np Problema51
+np Problema52
+np Problema53
+np Problema54
+np Problema55
+np Problema56
+np Problema57
+np Problema58
+np Problema59
+np Problema49  #REPETICION
+np Problema60
+np Problema61
+np Problema43  #REPETICION
+np Problema62
+np Problema15  #REPETICION
+np Problema63
+np Problema64
+np Problema62  #REPETICION
+np Problema65
+np Problema66
+np Problema67
+np Problema68
+np Problema3  #REPETICION
+np Problema69
+np Problema70
+np Problema71
+np Problema72
+np Problema38  #REPETICION
+np Problema52  #REPETICION
+np Problema40  #REPETICION
+np Problema73
+np Problema15  #REPETICION
+np Problema74
+np Problema75
+np Problema76
+np Problema77
+np Problema78
+np Problema79
+np Problema63  #REPETICION
+np Problema46  #REPETICION
+np Problema80
+np Problema81
+np Problema82
+np Problema83
+np Problema84
+np Problema85
+np Problema66  #REPETICION
+np Problema34  #REPETICION
+np Problema86
+np Problema71  #REPETICION
+np Problema87
+np Problema88
+np Problema89
+np Problema90
+np Problema38  #REPETICION
+np Problema65  #REPETICION
+np Problema5  #REPETICION
+np Problema91
+np Problema92
+np Problema31  #REPETICION
+np Problema93
+np Problema94
+np Problema95
+np Problema74  #REPETICION
+np Problema96
+np Problema97
+np Problema98
+np Problema99
+np Problema100
+np Problema101
+np Problema102
+np Problema58  #REPETICION
+np Problema103
+np Problema104
+np Problema105
+np Problema106
+np Problema107
+np Problema49  #REPETICION
+np Problema108
+np Problema109
+np Problema96  #REPETICION
+np Problema110
+np Problema111
+np Problema112
+np Problema113
+np Problema114
+np Problema115
+np Problema1  #REPETICION
+np Problema116
+np Problema72  #REPETICION
+np Problema65  #REPETICION
+np Problema104  #REPETICION
+np Problema7  #REPETICION
+np Problema117
+np Problema118
+np Problema55  #REPETICION
+np Problema12  #REPETICION
+np Problema119
+np Problema16  #REPETICION
+np Problema120
+np Problema121
+np Problema40  #REPETICION
+np Problema122
+np Problema123
+np Problema124
+np Problema125
+np Problema126
+np Problema127
+np Problema4  #REPETICION
+np Problema128
+np Problema129
+np Problema82  #REPETICION
+np Problema130
+np Problema92  #REPETICION
+np Problema9  #REPETICION
+np Problema131
+np Problema119  #REPETICION
+np Problema11  #REPETICION
+np Problema132
+np Problema133
+np Problema113  #REPETICION
+np Problema134
+np Problema135
+np Problema136
+np Problema1  #REPETICION
+np Problema5  #REPETICION
+np Problema137
+np Problema138
+np Problema139
+np Problema54  #REPETICION
+np Problema121  #REPETICION
+np Problema47  #REPETICION
+np Problema140
+np Problema141
+np Problema142
+np Problema143
+np Problema115  #REPETICION
+np Problema144
+np Problema145
+np Problema146
+np Problema147
+np Problema98  #REPETICION
+np Problema148
+np Problema149
+np Problema125  #REPETICION
+np Problema150
+np Problema151
+np Problema152
+np Problema140  #REPETICION
+np Problema153
+np Problema154
+np Problema24  #REPETICION
+np Problema155
+np Problema156
+np Problema157
+np Problema158
+np Problema159
+np Problema160
+np Problema161
+np Problema162
+np Problema163
+np Problema164
+np Problema165
+np Problema166
+np Problema167
+np Problema168
+np Problema35  #REPETICION
+np Problema169
+np Problema66  #REPETICION
+np Problema57  #REPETICION
+np Problema170
+np Problema171
+np Problema172
+np Problema105  #REPETICION
+np Problema173
+np Problema118  #REPETICION
+np Problema174
+np Problema42  #REPETICION
+np Problema175
+np Problema176
+np Problema115  #REPETICION
+np Problema39  #REPETICION
+np Problema8  #REPETICION
+np Problema171  #REPETICION
+np Problema177
+np Problema178
+np Problema179
+np Problema163  #REPETICION
+np Problema180
+np Problema181
+np Problema129  #REPETICION
+np Problema19  #REPETICION
+np Problema182
+np Problema14  #REPETICION
+np Problema183
+np Problema184
+np Problema185
+np Problema17  #REPETICION
+np Problema147  #REPETICION
+np Problema93  #REPETICION
+np Problema186
+np Problema187
+np Problema188
+np Problema189
+np Problema190
+np Problema191
+np Problema192
+np Problema193
+np Problema194
+np Problema195
+np Problema133  #REPETICION
+np Problema196
+np Problema197
+np Problema1  #REPETICION
+np Problema198
+np Problema199
+np Problema199  #REPETICION
+np Problema104  #REPETICION
+np Problema200
+
+Sesion1 Problema167 0 0 
+
+Sesion2 Problema68 Problema108 Problema164 Problema168 Problema128 0 0 0 Problema27 0 Problema143 0 0 0 Problema165 Problema82 Problema122 0 0 0 Problema142 0 Problema153 Problema98 0 0 Problema108 0 0 
+
+Sesion3 Problema117 Problema117 0 0 Problema122 0 Problema124 Problema177 Problema111 0 0 Problema103 0 0 Problema170 Problema75 0 0 Problema37 0 0 
+
+Sesion4 Problema153 0 Problema84 0 0 
+
+Sesion5 Problema165 Problema146 Problema7 Problema50 0 0 Problema33 0 0 0 Problema175 Problema197 Problema99 Problema64 0 0 Problema45 0 0 Problema163 Problema108 0 0 Problema68 0 0 Problema147 Problema132 0 0 0 
+
+Sesion6 Problema110 0 0 
+
+#REPETICION
+Sesion6 Problema158 Problema130 0 0 0 
+
+Sesion7 Problema12 Problema132 0 0 0 
+
+Sesion8 Problema105 Problema10 Problema158 Problema183 Problema112 0 0 Problema119 0 0 Problema75 Problema89 0 0 Problema57 0 0 Problema86 Problema3 0 Problema123 0 0 Problema9 Problema137 0 0 Problema75 0 0 Problema23 Problema33 Problema129 0 Problema160 0 0 Problema179 Problema75 0 0 Problema44 0 0 Problema144 Problema180 Problema49 0 0 0 Problema178 Problema192 0 0 Problema64 0 0 
+
+#REPETICION
+Sesion1 Problema166 Problema17 Problema98 Problema129 Problema170 0 0 0 Problema156 Problema33 0 0 0 Problema184 Problema177 0 Problema146 0 0 Problema13 Problema91 0 0 Problema9 0 0 Problema61 Problema115 Problema8 0 0 Problema56 0 0 Problema48 0 Problema140 0 0 
+
+#REPETICION
+Sesion8 Problema170 Problema78 0 0 Problema21 0 Problema26 Problema190 0 0 0 
+
+Sesion9 Problema104 0 0 
+
+Sesion10 Problema72 Problema91 0 Problema54 0 0 Problema107 Problema140 Problema20 0 0 0 Problema131 0 0 
+
+Sesion11 Problema30 0 Problema155 0 0 
+
+Sesion12 Problema161 Problema101 Problema17 Problema96 Problema187 0 0 Problema23 0 0 Problema1 Problema38 0 0 Problema196 0 0 Problema9 0 0 Problema137 Problema32 Problema7 Problema94 0 0 Problema118 0 0 Problema111 0 Problema122 0 0 Problema98 Problema171 Problema5 0 0 0 Problema145 Problema177 0 0 Problema16 0 0 
+
+Sesion13 Problema95 0 0 
+
+Sesion14 Problema132 Problema169 0 Problema136 Problema190 Problema158 0 0 Problema25 0 0 Problema66 Problema4 0 0 Problema28 0 0 Problema136 Problema174 0 Problema73 Problema60 0 0 Problema130 0 0 Problema149 0 Problema158 Problema121 0 0 Problema187 0 0 
+
+#REPETICION
+Sesion7 Problema48 Problema49 0 0 Problema138 0 Problema67 0 Problema199 Problema161 0 0 Problema21 0 0 
+
+Sesion15 Problema91 Problema112 Problema25 Problema169 Problema13 0 0 0 Problema158 Problema159 0 0 Problema156 0 0 Problema195 Problema26 Problema34 0 0 Problema78 0 0 Problema174 Problema112 0 0 Problema144 0 0 Problema168 Problema188 0 0 0 
+
+#REPETICION
+Sesion9 Problema118 0 0 
+
+Sesion16 Problema13 Problema176 Problema168 Problema145 Problema199 0 0 Problema31 0 0 Problema50 0 0 0 Problema105 Problema70 Problema199 Problema24 0 0 Problema90 0 0 0 0 
+
+Sesion17 Problema121 Problema197 0 Problema60 Problema185 0 0 Problema43 Problema91 0 0 0 0 
+
+#REPETICION
+Sesion4 Problema63 0 Problema6 Problema149 Problema115 0 Problema168 0 0 0 0 
+
+Sesion18 Problema40 0 0 
+
+Sesion19 Problema95 Problema2 Problema54 0 0 0 Problema14 Problema88 0 Problema1 0 0 Problema115 Problema75 Problema177 0 0 Problema184 0 0 0 
+
+Sesion20 Problema78 0 0 
+
+Sesion21 Problema52 Problema73 Problema29 0 0 0 Problema59 Problema181 Problema129 0 Problema165 0 0 0 Problema129 0 0 
+
+#REPETICION
+Sesion9 Problema108 Problema39 Problema90 0 Problema194 0 0 Problema12 Problema4 Problema114 0 0 Problema81 0 0 Problema9 0 0 Problema130 Problema106 Problema30 Problema126 0 0 Problema26 0 0 Problema123 Problema123 0 0 0 Problema151 Problema123 0 0 Problema14 Problema128 0 0 Problema200 0 0 
+
+Sesion22 Problema181 Problema106 Problema111 Problema111 0 Problema174 0 0 Problema71 0 Problema195 0 0 Problema23 0 Problema94 0 Problema44 0 0 Problema17 Problema171 0 0 Problema173 Problema40 0 0 Problema192 0 Problema113 0 0 
+
+Sesion23 Problema56 0 0 
+
+Sesion24 Problema130 0 Problema103 Problema44 0 Problema138 Problema172 0 0 0 0 
+
+Sesion25 Problema29 0 Problema21 0 Problema197 0 0 
+
+#REPETICION
+Sesion22 Problema53 0 0 
+
+Sesion26 Problema75 Problema179 Problema95 Problema60 0 0 Problema57 0 Problema133 0 0 0 0 
+
+Sesion27 Problema68 Problema7 Problema147 0 Problema142 Problema18 0 0 0 Problema62 Problema23 Problema174 0 0 0 Problema144 0 Problema50 0 0 Problema66 Problema38 Problema129 Problema116 0 0 Problema19 0 0 Problema42 Problema148 0 0 0 Problema150 Problema169 Problema144 0 0 Problema44 0 0 Problema99 Problema23 0 0 0 
+
+Sesion28 Problema99 0 0 
+
+Sesion29 Problema52 0 Problema18 0 0 
+
+Sesion30 Problema134 Problema185 Problema98 Problema93 Problema177 0 0 Problema67 0 0 Problema20 0 0 Problema44 Problema67 0 0 Problema10 Problema144 0 0 Problema129 0 0 Problema132 Problema146 Problema37 Problema56 0 0 0 Problema42 Problema68 0 0 0 Problema73 Problema132 Problema191 0 0 Problema8 0 0 Problema185 Problema80 0 0 0 
+

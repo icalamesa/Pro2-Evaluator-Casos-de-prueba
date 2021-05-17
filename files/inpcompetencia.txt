@@ -1,0 +1,161 @@
+100
+keyword
+Macintosh
+joystick
+version
+shell
+plug-in
+snapshot
+software
+computing
+trash
+paste
+gigabyte
+logic
+page
+bus
+bandwidth
+utility
+format
+inbox
+process
+IP
+finder
+CPU
+drag
+array
+icon
+lurking
+programmer
+online
+encryption
+folder
+client
+print
+printer
+Windows
+processor
+link
+storage
+password
+emoticon
+queues
+virus
+DNS
+blog
+root
+frame
+window
+flowchart
+mining
+spreadsheet
+data
+bitmap
+Linux
+lock
+open-source
+computer
+zip
+byte
+mouse
+graphics
+download
+platform
+mail
+spammer
+username
+host
+memory
+podcast
+html
+hyperlink
+pirate
+exabyte
+multimedia
+spam
+iteration
+word
+offline
+monitor
+matrix
+digital
+application
+table
+terabyte
+operating-system
+cookie
+development
+user
+boot
+Trojan-horse
+command
+screenshot
+document
+blogger
+notebook
+integer
+file
+flash
+workstation
+key
+server
+15
+Sesion1 keyword 0 key 0 Macintosh 0 workstation joystick flash 0 0 0 0
+Sesion2 software document computing 0 0 0 0
+Sesion3 screenshot trash command 0 0 0 paste 0 0
+Sesion4 Trojan-horse gigabyte boot logic 0 0 0 0 user page development 0 0 0 0
+Sesion5 bus cookie bandwidth 0 0 operating-system 0 0 0
+Sesion6 utility terabyte 0 0 format 0 0
+Sesion7 table inbox application 0 0 0 process digital 0 0 0
+Sesion8 IP matrix finder 0 0 monitor 0 0 0
+Sesion9 CPU offline drag 0 0 word 0 0 array iteration 0 0 icon 0 0
+Sesion10 spam lurking 0 0 multimedia programmer 0 0 exabyte 0 0
+Sesion11 online pirate encryption hyperlink 0 0 folder 0 0 0 html 0 0
+Sesion12 client podcast print 0 0 memory 0 0 printer host 0 0 Windows 0 0
+Sesion13 username processor spammer 0 0 link 0 0 0
+Sesion14 mail storage platform password 0 0 0 download 0 0 emoticon graphics queues 0 0 0 0
+Sesion15 version file shell 0 0 integer plug-in 0 0 0 notebook snapshot 0 0 blogger 0 0
+10
+4 Sesion7 Sesion11 Sesion5 Sesion4 
+6 Sesion13 Sesion6 Sesion4 Sesion10 Sesion12 Sesion1 
+7 Sesion1 Sesion4 Sesion8 Sesion10 Sesion5 Sesion6 Sesion14 
+4 Sesion2 Sesion9 Sesion11 Sesion4 
+7 Sesion11 Sesion7 Sesion12 Sesion5 Sesion4 Sesion10 Sesion3 
+5 Sesion9 Sesion13 Sesion1 Sesion6 Sesion10 
+3 Sesion10 Sesion4 Sesion6 
+1 Sesion15 
+4 Sesion11 Sesion1 Sesion13 Sesion12 
+2 Sesion12 Sesion4 
+30
+Emelina
+Lizbeth
+Hedda
+Jayne
+Allegra
+Vicki
+Hillary
+Aloisia
+Rozanne
+Tracy
+Melosa
+Felicia
+Jacquelin
+Andrea
+Rodina
+Arabelle
+Trix
+Dyann
+Kala
+Cordie
+Nadean
+Bianca
+Larine
+Daune
+Elissa
+Nert
+Margret
+Jewel
+Florry
+Cherida
+
+
